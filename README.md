@@ -1,3 +1,7 @@
+# Description
+
+An activity I made for my cohort at the University of Arizona coding bootcamp to learn React hooks.
+
 # React Hooks
 
 In this activity, we will take a look at hooks.
